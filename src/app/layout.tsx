@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Music School",
+  title: "Melody Masterclass",
   description: "Transform your passion into mastery at our dynamic music school. Join our vibrant community and unleash your musical potential today!",
 };
 
